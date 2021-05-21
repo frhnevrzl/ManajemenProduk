@@ -1,0 +1,7 @@
+D:\TestCode\ManajemenProduk\ManajemenProduk\bin\Debug\ManajemenProduk.exe.config
+D:\TestCode\ManajemenProduk\ManajemenProduk\bin\Debug\ManajemenProduk.exe
+D:\TestCode\ManajemenProduk\ManajemenProduk\bin\Debug\ManajemenProduk.pdb
+D:\TestCode\ManajemenProduk\ManajemenProduk\obj\Debug\ManajemenProduk.csprojAssemblyReference.cache
+D:\TestCode\ManajemenProduk\ManajemenProduk\obj\Debug\ManajemenProduk.csproj.CoreCompileInputs.cache
+D:\TestCode\ManajemenProduk\ManajemenProduk\obj\Debug\ManajemenProduk.exe
+D:\TestCode\ManajemenProduk\ManajemenProduk\obj\Debug\ManajemenProduk.pdb
